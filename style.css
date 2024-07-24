@@ -699,6 +699,13 @@ footer i {
   .image__specs {
     margin-bottom: 40px;
   }
+  .text__pub {
+    padding: 10px;
+  }
+  .text__pub p{
+    width: 90%;
+  }
+
 }
 
 @media (max-width: 760px) {
